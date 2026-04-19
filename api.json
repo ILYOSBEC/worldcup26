@@ -1,0 +1,29 @@
+{
+"Groups": [
+    {
+        "group": "A",
+        "countries": [
+            {
+                "country": "Uzbekistan",
+                "flag": "",
+                "pts": "2"
+            },
+                        {
+                "country": "Portugal",
+                "flag": "",
+                "pts": "4"
+            },
+                        {
+                "country": "Play off",
+                "flag": "",
+                "pts": "0"
+            },
+                        {
+                "country": "Columbia",
+                "flag": "",
+                "pts": "1"
+            }
+        ]
+    }
+]
+}
