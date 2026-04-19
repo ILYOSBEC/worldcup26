@@ -5,7 +5,7 @@
         "countries": [
             {
                 "country": "Uzbekistan",
-                "flag": "",
+                "flag": "https://flagcdn.com/w40/uz.png",
                 "pts": "2"
             },
                         {
