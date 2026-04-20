@@ -2,28 +2,59 @@
 "Groups": [
     {
         "group": "A",
-        "id": 1,
+        "id": "A",
         "countries": [
             {
                 "country": "Uzbekistan",
                 "flag": "https://flagcdn.com/w40/uz.png",
-                "pts": "6"
+                "P": "1",
+                "W": "1",
+                "D": "1",
+                "L": "1",
+                "GF": "1",
+                "GA": "1",
+                "GD": "1",
+                "pts": "2"
             },
                         {
                 "country": "Portugal",
-                "flag": "",
-                "pts": "4"
+                "flag": "https://flagcdn.com/w40/pr.png",
+                "P": "1",
+                "W": "1",
+                "D": "1",
+                "L": "1",
+                "GF": "1",
+                "GA": "1",
+                "GD": "1",
+                "pts": "2"
             },
                         {
-                "country": "Play off",
+                "country": "congo",
                 "flag": "",
-                "pts": "0"
+                "P": "1",
+                "W": "1",
+                "D": "1",
+                "L": "1",
+                "GF": "1",
+                "GA": "1",
+                "GD": "1",
+                "pts": "2"
             },
                         {
                 "country": "Columbia",
                 "flag": "",
-                "pts": "1"
+                "P": "1",
+                "W": "1",
+                "D": "1",
+                "L": "1",
+                "GF": "1",
+                "GA": "1",
+                "GD": "1",
+                "pts": "2"
             }
+        ],
+        "games": [
+            
         ]
     }
 ]
