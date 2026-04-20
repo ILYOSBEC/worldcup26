@@ -2,7 +2,7 @@
 "Groups": [
     {
         "group": "A",
-        "id": 1
+        "id": 1,
         "countries": [
             {
                 "country": "Uzbekistan",
