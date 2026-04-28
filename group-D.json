@@ -1,0 +1,61 @@
+[
+    {
+            "group": "D",
+            "id": "D",
+            "countries": [
+                {
+                    "country": "United States",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/us.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Paraguay",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/py.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Australia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/au.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Turkiye",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/tr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "group": "K",
+            "id": "K",
+            "countries": [
+                {
+                    "country": "Portugal",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/pt.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "DR Congo",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cd.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Uzbekistan",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/uz.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Colombia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/co.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

@@ -1,0 +1,61 @@
+[
+      {
+            "group": "A",
+            "id": "A",
+            "countries": [
+                {
+                    "country": "Mexico",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/mx.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "South Africa",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/za.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "South Korea",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/kr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Czechia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cz.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

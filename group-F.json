@@ -1,0 +1,61 @@
+[
+     {
+            "group": "F",
+            "id": "F",
+            "countries": [
+                {
+                    "country": "Netherlands",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/nl.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Japan",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/jp.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Sweden",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/se.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Tunisia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/tl.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

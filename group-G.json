@@ -1,0 +1,61 @@
+[
+     {
+            "group": "G",
+            "id": "G",
+            "countries": [
+                {
+                    "country": "Belgium",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/be.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Egypt",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/eg.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Iran",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ir.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "New Zealand",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/nzsss.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

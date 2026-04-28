@@ -1,0 +1,61 @@
+[
+     {
+            "group": "L",
+            "id": "L",
+            "countries": [
+                {
+                    "country": "England",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gb-eng.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Croatia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/hr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ghana",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gh.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Panama",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/pa.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

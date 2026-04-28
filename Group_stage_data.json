@@ -1,0 +1,713 @@
+{
+    "games_played_date": "1-Iyun — 15-Iyul",
+    "Groups": [
+        {
+            "group": "A",
+            "id": "A",
+            "countries": [
+                {
+                    "country": "Mexico",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/mx.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "South Africa",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/za.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "South Korea",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/kr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Czechia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cz.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "B",
+            "id": "B",
+            "countries": [
+                {
+                    "country": "Canada",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ca.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Bosnia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ba.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Qatar",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/qa.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Switzerland",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ch.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "C",
+            "id": "C",
+            "countries": [
+                {
+                    "country": "Brazil",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/br.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Morocco",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ma.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Haiti",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ht.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Scotland",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gb-sct.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "D",
+            "id": "D",
+            "countries": [
+                {
+                    "country": "United States",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/us.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Paraguay",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/py.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Australia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/au.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Turkiye",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/tr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "E",
+            "id": "E",
+            "countries": [
+                {
+                    "country": "Germany",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/de.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Curacao",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cw.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ivory Coast",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ci.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ecuador",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ec.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "F",
+            "id": "F",
+            "countries": [
+                {
+                    "country": "Netherlands",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/nl.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Japan",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/jp.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Sweden",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/se.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Tunisia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/tl.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "G",
+            "id": "G",
+            "countries": [
+                {
+                    "country": "Belgium",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/be.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Egypt",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/eg.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Iran",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ir.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "New Zealand",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/nzsss.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "H",
+            "id": "H",
+            "countries": [
+                {
+                    "country": "Spain",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/es.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Cabo Verde",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cv.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Saudi Arabia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/sa.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Uruguay",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/uy.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "I",
+            "id": "I",
+            "countries": [
+                {
+                    "country": "France",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/fr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Senegal",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/sn.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Iraq",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/iq.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Norway",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/no.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "J",
+            "id": "J",
+            "countries": [
+                {
+                    "country": "Argentina",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ar.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Algeria",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/dz.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Austria",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/at.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Jordan",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/jo.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "K",
+            "id": "K",
+            "countries": [
+                {
+                    "country": "Portugal",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/pt.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "DR Congo",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cd.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Uzbekistan",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/uz.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Colombia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/co.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        },
+        {
+            "group": "L",
+            "id": "L",
+            "countries": [
+                {
+                    "country": "England",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gb-eng.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Croatia",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/hr.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ghana",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gh.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Panama",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/pa.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+[
+     {
+            "group": "C",
+            "id": "C",
+            "countries": [
+                {
+                    "country": "Brazil",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/br.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Morocco",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ma.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Haiti",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ht.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Scotland",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/gb-sct.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]

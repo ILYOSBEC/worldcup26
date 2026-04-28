@@ -1,0 +1,61 @@
+[
+      {
+            "group": "E",
+            "id": "E",
+            "countries": [
+                {
+                    "country": "Germany",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/de.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Curacao",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/cw.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ivory Coast",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ci.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                },
+                {
+                    "country": "Ecuador",
+                    "winner": false,
+                    "flag": "https://flagcdn.com/w80/ec.png",
+                    "P": "0",
+                    "W": "0",
+                    "D": "0",
+                    "L": "0",
+                    "GF": "0",
+                    "GA": "0",
+                    "GD": "0",
+                    "pts": "0"
+                }
+            ],
+            "games": []
+        }
+]
