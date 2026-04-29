@@ -1,0 +1,49 @@
+[
+    {
+        "id": "GS-01",
+        "status": false,
+        "winner": "-",
+        "game_type": "Group Stage",
+        "link_for_group": "A",
+        "first_country": "Mexico",
+        "first_flag": "https://flagcdn.com/w80/mx.png",
+        "first_score": "-",
+        "second_country": "South Africa",
+        "second_flag": "https://flagcdn.com/w80/za.png",
+        "second_score": "-",
+        "goal_scorers": [],
+        "red_card_scores": [],
+        "game_info": {
+            "date": "12 / 06 / 2026",
+            "month_date": "June 12, 2026",
+            "time": "22:00",
+            "full_time": "00:00",
+            "highlights_video": ""
+        },
+        "full_game_statistics": {
+            "fc-total_shots": "-",
+            "fc-shots_on_goal": "-",
+            "fc-shots_on_target": "-",
+            "fc-ball_possession": "-",
+            "fc-passes": "-",
+            "fc-passing_accuracy": "-",
+            "fc-fouls": "-",
+            "fc-yellow_cards": "-",
+            "fc-red_cards": "-",
+            "fc-offsides": "-",
+            "fc-corners": "-",
+            "<>": "<>",
+            "sc-total_shots": "-",
+            "sc-shots_on_goal": "-",
+            "sc-shots_on_target": "-",
+            "sc-ball_possession": "-",
+            "sc-passes": "-",
+            "sc-passing_accuracy": "-",
+            "sc-fouls": "-",
+            "sc-yellow_cards": "-",
+            "sc-red_cards": "-",
+            "sc-offsides": "-",
+            "sc-corners": "-"
+        }
+    }
+]
