@@ -59,6 +59,9 @@
             "games": [
                                   {
                     "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-01.json"
+                },
+                                                    {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-02.json"
                 }
             ]
         }
