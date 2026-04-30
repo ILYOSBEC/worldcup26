@@ -2,22 +2,27 @@
     {
         "id": "GS-01",
         "status": true,
-        "winner": "-",
+        "winner": "f",
         "game_type": "Group Stage",
         "link_for_group": "A",
         "first_country": "Mexico",
         "first_flag": "https://flagcdn.com/w80/mx.png",
-        "first_score": "-",
+        "first_score": "4",
         "second_country": "South Africa",
         "second_flag": "https://flagcdn.com/w80/za.png",
-        "second_score": "-",
-        "goal_scorers": [],
+        "second_score": "2",
+        "goal_scorers": [
+            {
+                fc_scorer_name:"ronaldo",
+                "fc_scorer_min": "59'
+            }
+        ],
         "red_card_scores": [],
         "game_info": {
             "date": "12 / 06 / 2026",
             "month_date": "June 12, 2026",
             "time": "22:00",
-            "full_time": "00:00",
+            "full_time": "90:00",
             "highlights_video": ""
         },
         "full_game_statistics": {
