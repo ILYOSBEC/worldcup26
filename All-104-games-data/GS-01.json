@@ -1,7 +1,7 @@
 [
     {
         "id": "GS-01",
-        "status": true,
+        "status": false,
         "winner": "f",
         "game_type": "Group Stage",
         "link_for_group": "A",
