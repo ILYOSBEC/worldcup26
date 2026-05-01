@@ -12,8 +12,18 @@
         "second_flag": "https://flagcdn.com/w80/za.png",
         "second_score": "2",
         "goal_scorers": [
-            "fc_scorer_fullname": "C.Ronaldo",
-            "fc_score_min": "69'"
+                {
+                     "fc_scorer_fullname": "Lionel Messi",
+                   "fc_score_min": "23' (P) , 108'"
+                },
+              {
+                  "fc_scorer_fullname": "Angel Di Maria",
+                  "fc_score_min": "38'" 
+                },
+                {
+                    "sc_scorer_fullname": "Klyan Mbappe",
+                   "sc_score_min": "80' (P) , 81' , 118' (P)" 
+                 }
         ],
         "red_card_scores": [],
         "game_info": {
