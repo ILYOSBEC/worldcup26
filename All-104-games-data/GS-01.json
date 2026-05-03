@@ -1,7 +1,7 @@
 [
     {
         "id": "GS-01",
-        "status": false,
+        "status": true,
         "winner": "f",
         "game_type": "Group Stage",
         "link_for_group": "A",
@@ -12,32 +12,32 @@
         "second_flag": "https://flagcdn.com/w80/za.png",
         "second_score": "2",
         "goal_scorers": [
-                {
-                     "fc_scorer_fullname": "Lionel Messi",
-                   "fc_score_min": "23' (P) , 108'"
-                },
-              {
-                  "fc_scorer_fullname": "Angel Di Maria",
-                  "fc_score_min": "38'" 
-                },
-                {
-                    "sc_scorer_fullname": "Klyan Mbappe",
-                   "sc_score_min": "80' (P) , 81' , 118' (P)" 
-                 }
+            {
+                "fc_scorer_fullname": "Santiago Giménez",
+                "fc_score_min": "12', 45+2'"
+            },
+            {
+                "fc_scorer_fullname": "Hirving Lozano",
+                "fc_score_min": "67'"
+            },
+            {
+                "fc_scorer_fullname": "Edson Álvarez",
+                "fc_score_min": "89' (P)"
+            },
+            {
+                "sc_scorer_fullname": "Lyle Foster",
+                "sc_score_min": "34'"
+            },
+            {
+                "sc_scorer_fullname": "Percy Tau",
+                "sc_score_min": "78'"
+            }
         ],
         "red_card_scores": [
-                            {
-                     "fc_scorer_fullname": "Lionel Messi",
-                   "fc_score_min": "23' (P) , 108'"
-                },
-              {
-                  "fc_scorer_fullname": "Angel Di Maria",
-                  "fc_score_min": "38'" 
-                },
-                {
-                    "sc_scorer_fullname": "Klyan Mbappe",
-                   "sc_score_min": "80' (P) , 81' , 118' (P)" 
-                 }
+            {
+                "sc_scorer_fullname": "Mothobi Mvala",
+                "sc_score_min": "88'"
+            }
         ],
         "game_info": {
             "date": "12 / 06 / 2026",
@@ -47,29 +47,29 @@
             "highlights_video": "https://www.youtube.com/embed/bPvweHJkrBs"
         },
         "full_game_statistics": {
-            "fc-total_shots": "-",
-            "fc-shots_on_goal": "-",
-            "fc-shots_on_target": "-",
-            "fc-ball_possession": "-",
-            "fc-passes": "-",
-            "fc-passing_accuracy": "-",
-            "fc-fouls": "-",
-            "fc-yellow_cards": "-",
-            "fc-red_cards": "-",
-            "fc-offsides": "-",
-            "fc-corners": "-",
+            "fc-total_shots": "16",
+            "fc-shots_on_goal": "8",
+            "fc-shots_on_target": "7",
+            "fc-ball_possession": "58%",
+            "fc-passes": "512",
+            "fc-passing_accuracy": "84%",
+            "fc-fouls": "11",
+            "fc-yellow_cards": "2",
+            "fc-red_cards": "0",
+            "fc-offsides": "3",
+            "fc-corners": "6",
             "<>": "<>",
-            "sc-total_shots": "-",
-            "sc-shots_on_goal": "-",
-            "sc-shots_on_target": "-",
-            "sc-ball_possession": "-",
-            "sc-passes": "-",
-            "sc-passing_accuracy": "-",
-            "sc-fouls": "-",
-            "sc-yellow_cards": "-",
-            "sc-red_cards": "-",
-            "sc-offsides": "-",
-            "sc-corners": "-"
+            "sc-total_shots": "9",
+            "sc-shots_on_goal": "4",
+            "sc-shots_on_target": "3",
+            "sc-ball_possession": "42%",
+            "sc-passes": "345",
+            "sc-passing_accuracy": "76%",
+            "sc-fouls": "15",
+            "sc-yellow_cards": "4",
+            "sc-red_cards": "1",
+            "sc-offsides": "2",
+            "sc-corners": "4"
         }
     }
 ]
