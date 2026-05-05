@@ -1,0 +1,49 @@
+[
+     {
+            "id": "GS-07",
+            "status": false,
+            "winner": "-",
+            "game_type": "Group Stage",
+            "link_for_group": "C",
+            "first_country": "Haiti",
+            "first_flag": "https://flagcdn.com/w80/ht.png",
+            "first_score": "-",
+            "second_country": "Scotland",
+            "second_flag": "https://flagcdn.com/w80/gb-sct.png",
+            "second_score": "-",
+            "goal_scorers": [],
+            "red_card_scores": [],
+            "game_info": {
+                "date": "14 / 06 / 2026",
+                "month_date": "June 14, 2026",
+                "time": "06:00",
+                "full_time": "00:00",
+                "highlights_video": "-"
+            },
+            "full_game_statistics": {
+                "fc-total_shots": "-",
+                "fc-shots_on_goal": "-",
+                "fc-shots_on_target": "-",
+                "fc-ball_possession": "-",
+                "fc-passes": "-",
+                "fc-passing_accuracy": "-",
+                "fc-fouls": "-",
+                "fc-yellow_cards": "-",
+                "fc-red_cards": "-",
+                "fc-offsides": "-",
+                "fc-corners": "-",
+                "<>":"<>",
+                "sc-total_shots": "-",
+                "sc-shots_on_goal": "-",
+                "sc-shots_on_target": "-",
+                "sc-ball_possession": "-",
+                "sc-passes": "-",
+                "sc-passing_accuracy": "-",
+                "sc-fouls": "-",
+                "sc-yellow_cards": "-",
+                "sc-red_cards": "-",
+                "sc-offsides": "-",
+                "sc-corners": "-"
+        }
+        }
+]
