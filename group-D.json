@@ -56,6 +56,25 @@
                     "pts": "0"
                 }
             ],
-            "games": []
+              "games": [
+                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-04.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-08.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-29.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-32.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-59.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-60.json"
+                }
+            ]
         }
 ]
