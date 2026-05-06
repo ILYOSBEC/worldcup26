@@ -1,5 +1,4 @@
 {
-    "games_played_date": "1-Iyun — 15-Iyul",
     "Groups": [
         {
             "group": "A",
@@ -78,7 +77,7 @@
                     "pts": "0"
                 },
                 {
-                    "country": "Bosnia",
+                    "country": "BiH",
                     "winner": false,
                     "flag": "https://flagcdn.com/w80/ba.png",
                     "P": "0",
@@ -183,7 +182,7 @@
             "id": "D",
             "countries": [
                 {
-                    "country": "United States",
+                    "country": "USA",
                     "winner": false,
                     "flag": "https://flagcdn.com/w80/us.png",
                     "P": "0",
@@ -268,7 +267,7 @@
                     "pts": "0"
                 },
                 {
-                    "country": "Ivory Coast",
+                    "country": "Côte d'Ivoire",
                     "winner": false,
                     "flag": "https://flagcdn.com/w80/ci.png",
                     "P": "0",
@@ -401,7 +400,7 @@
                 {
                     "country": "New Zealand",
                     "winner": false,
-                    "flag": "https://flagcdn.com/w80/nzsss.png",
+                    "flag": "https://flagcdn.com/w80/nz.png",
                     "P": "0",
                     "W": "0",
                     "D": "0",
@@ -432,7 +431,7 @@
                     "pts": "0"
                 },
                 {
-                    "country": "Cabo Verde",
+                    "country": "Cape Verde",
                     "winner": false,
                     "flag": "https://flagcdn.com/w80/cv.png",
                     "P": "0",
