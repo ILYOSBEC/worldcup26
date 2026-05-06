@@ -1,4 +1,5 @@
-[{
+[
+    {
             "group": "J",
             "id": "J",
             "countries": [
@@ -55,5 +56,25 @@
                     "pts": "0"
                 }
             ],
-            "games": []
-        }]
+            "games": [
+                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-19.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-20.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-41.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-44.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-71.json"
+                },
+                                {
+                    "game_data_api": "https://worldcup26-sigma.vercel.app/All-104-games-data/GS-72.json"
+                }
+            ]
+        }
+]
