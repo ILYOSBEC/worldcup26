@@ -2,15 +2,15 @@
      {
             "id": "GS-25",
             "status": false,
-            "winner": "-",
+            "winner": "f",
             "game_type": "Group Stage",
             "link_for_group": "A",
             "first_country": "Czechia",
             "first_flag": "https://flagcdn.com/w80/cz.png",
-            "first_score": "-",
+            "first_score": "3",
             "second_country": "South Africa",
             "second_flag": "https://flagcdn.com/w80/za.png",
-            "second_score": "-",
+            "second_score": "2",
             "goal_scorers": [],
             "red_card_scores": [],
             "game_info": {
